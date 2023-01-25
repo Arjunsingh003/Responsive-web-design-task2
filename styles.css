@@ -1,0 +1,208 @@
+* {
+    margin:0;
+  
+}
+body {
+    background-color: darkslategrey;
+}
+
+#item1 {
+    display:flex;
+    justify-content: center;  
+    padding-top: 10px;
+
+}
+#header-logo {
+    width:200px;
+    height:150px;
+    padding-right: 10px;
+}
+#first-header{
+    color:red;
+    font-size:50px;
+    line-height: 32px;
+
+}
+
+#sub-header {
+    font-size:30px;
+    color:white
+}
+#item2 {
+    display:grid;
+    grid-template-columns: 600px auto;
+   
+    grid-template-rows: auto 60px;
+    grid-gap: 5px;
+ 
+    padding: 0px;;
+   
+}
+
+#small-item-1, #small-item-2 {
+   
+   
+    height: 400px;
+    
+  
+
+}
+#small-item-1 {
+    padding-right: 0px;
+    margin-left: 50px;
+   background-color: yellow;
+   
+}
+#small-item-2 {
+    padding-left: 0px;
+    margin-right: 50px;
+ 
+}
+
+#img-img {
+    padding-top: 10px;
+    padding-left:230px;
+    width:100px;
+    height:80px;
+}
+#head-head-first {
+    color:white;
+    font-size: 50px;
+    padding-top: 10px;
+    padding-left:200px;
+    line-height: normal;
+}
+
+
+#small-small-paratag {
+    color:white;
+    font-size: 20px;
+    font-weight: 100px;
+    padding-top: 10px;
+
+    text-align: center;
+    line-height: normal;
+}
+#over-weight {
+    text-align: center;
+    color:white;
+}
+
+#text-sub-1 {
+    color:white;
+    text-align: center;
+}
+
+#small-item-2 {
+    background-color:aqua;
+}
+
+#anestimated-header {
+    color:white;
+    text-align: center;
+    padding-top: 10px;
+
+
+}
+
+#data-item2 {
+    display: flex;
+    justify-content: center;
+    padding-top:10px;
+    
+}
+
+#million-tag-33 {
+    color:white;
+   
+}
+#img-data-item {
+    width:40px;
+    height: 40px;
+    margin:0;
+    padding: 0;
+}
+#rotate112 {
+    padding-right:100px;
+    text-align: left;
+    color:white;
+}
+
+#children-age-5 {
+    text-align: center;
+    color: white;
+}
+
+#weeks33 {
+    text-align: center;
+    color: white;
+}
+
+#sample-text {
+    text-align: center;
+    color: white;
+}
+#container-4 {
+  
+  
+    margin-left: 200px;
+    width:800px;
+    height:300px;
+   
+   background-color: red;
+
+}
+
+#container-4-1-item {
+    display:flex;
+    
+}
+
+#obesity-header {
+    color:white;
+    margin:30px;
+    padding-top: 5px;
+}
+
+#image-obesity-container {
+    background-color: red;
+    width:300px;
+    height:80px;
+    padding-top: 60px;
+}
+
+#risk-para {
+    color:white;
+    margin:50px;
+
+}
+
+#container-5 {
+  
+  
+    margin-left: 200px;
+    width:800px;
+    height:300px;
+   
+   background-color: aqua;
+
+}
+#container-5-header {
+    display:flex;
+    margin: 20px;
+}
+#shield-image {
+    margin-left: 10px;;
+}
+#parent-container-5 {
+    display:grid;
+    grid-template-columns: 300px 300px;
+    grid-template-rows: 100px 100px;
+    grid-gap: 5px 5px;
+}
+
+#para-container-5-subitem-1, #para-container-5-subitem-2, #para-container-5-subitem-3, #para-container-5-subitem-4{
+  
+    margin-left: 50px;
+    color:white;
+}
